@@ -1,0 +1,14 @@
+aero	aero	sponsored
+asia	asia	sponsored
+cat	cat	sponsored
+coop	coop	sponsored
+edu	edu	sponsored
+gov	gov	sponsored
+int	int	sponsored
+jobs	jobs	sponsored
+mil	mil	sponsored
+museum	museum	sponsored
+post	post	sponsored
+tel	tel	sponsored
+travel	travel	sponsored
+xxx	xxx	sponsored

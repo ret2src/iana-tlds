@@ -1,0 +1,3 @@
+biz	biz	generic-restricted
+name	name	generic-restricted
+pro	pro	generic-restricted
